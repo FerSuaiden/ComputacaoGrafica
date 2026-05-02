@@ -1,0 +1,5 @@
+newmtl dance_floor_mat
+Kd 1 1 1
+d 1
+illum 1
+map_Kd ../textures/dance_floor_checkered_pavement_tiles_diff_1k.jpg

@@ -1,0 +1,44 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v6.0.0)
+
+newmtl modular_urban_apartments_facade_objects
+Kd 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd ../textures/modular_urban_apartments_facade_modular_urban_apartments_facade_objects_diff_1k.jpg
+
+newmtl modular_urban_apartments_facade_glass
+Kd 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd ../textures/modular_urban_apartments_facade_modular_urban_apartments_facade_objects_diff_1k.jpg
+
+newmtl modular_urban_apartments_facade_trim_01
+Kd 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd ../textures/modular_urban_apartments_facade_modular_urban_apartments_facade_trim_01_diff_1k.jpg
+
+newmtl modular_urban_apartments_facade_trim_02
+Kd 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd ../textures/modular_urban_apartments_facade_modular_urban_apartments_facade_trim_02_diff_1k.jpg
+
+newmtl modular_urban_apartments_facade_plaster
+Kd 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd ../textures/modular_urban_apartments_facade_modular_urban_apartments_facade_plaster_diff_1k.jpg
+
+newmtl $Material_5
+Kd 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+

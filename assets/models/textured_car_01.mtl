@@ -1,0 +1,5 @@
+newmtl textured_car_01_mat
+Kd 1 1 1
+d 1
+illum 1
+map_Kd ../textures/textured_car_01_diffuse.bmp

@@ -1,0 +1,13 @@
+mtllib lounge_floor.mtl
+o lounge_floor
+v -10.0 0.0 -7.5
+v 10.0 0.0 -7.5
+v 10.0 0.0 7.5
+v -10.0 0.0 7.5
+vt 0.0 0.0
+vt 1.0 0.0
+vt 1.0 1.0
+vt 0.0 1.0
+usemtl lounge_floor_mat
+f 1/1 2/2 3/3
+f 1/1 3/3 4/4

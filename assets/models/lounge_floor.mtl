@@ -1,0 +1,4 @@
+newmtl lounge_floor_mat
+Kd 0.16 0.18 0.22
+d 1
+illum 1

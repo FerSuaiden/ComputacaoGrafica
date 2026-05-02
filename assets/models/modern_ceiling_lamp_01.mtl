@@ -1,0 +1,30 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v6.0.0)
+
+newmtl modern_ceiling_lamp_01_glass
+Kd 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd ../textures/modern_ceiling_lamp_01_modern_ceiling_lamp_01_diff_1k.jpg
+
+newmtl modern_ceiling_lamp_01
+Kd 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd ../textures/modern_ceiling_lamp_01_modern_ceiling_lamp_01_diff_1k.jpg
+
+newmtl modern_ceiling_globe
+Kd 1 1 1
+Ke 0.622958064 0.541621566 0.474550486
+d 1
+illum 1
+map_Kd ../textures/modern_ceiling_lamp_01_modern_ceiling_lamp_01_diff_1k.jpg
+
+newmtl $Material_3
+Kd 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+

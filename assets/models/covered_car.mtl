@@ -1,0 +1,27 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v6.0.0)
+
+newmtl covered_car
+Kd 1 1 1
+Ks 0.711407304 0.711407304 0.711407304
+Ke 0 0 0
+d 1
+Ni 1.45000005
+illum 1
+map_Kd ../textures/covered_car_covered_car_diff_1k.jpg
+
+newmtl covered_car
+Kd 1 1 1
+Ks 0.711407304 0.711407304 0.711407304
+Ke 0 0 0
+d 1
+Ni 1.45000005
+illum 1
+map_Kd ../textures/covered_car_covered_car_diff_1k.jpg
+
+newmtl $Material_2
+Kd 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+

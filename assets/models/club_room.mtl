@@ -1,0 +1,16 @@
+newmtl club_wall
+Kd 1 1 1
+d 1
+illum 1
+map_Kd ../textures/club_wall_black_painted_planks_diff_1k.jpg
+
+newmtl club_ceiling
+Kd 0.02 0.02 0.02
+d 1
+illum 1
+
+newmtl club_accent
+Kd 1 1 1
+d 1
+illum 1
+map_Kd ../textures/club_stage_concrete_floor_diff_1k.jpg

@@ -1,0 +1,13 @@
+mtllib dance_floor.mtl
+o floor
+v -4.7 0 -4.7
+v 4.7 0 -4.7
+v 4.7 0 4.7
+v -4.7 0 4.7
+vt 0 0
+vt 3.5 0
+vt 3.5 3.5
+vt 0 3.5
+usemtl dance_floor_mat
+f 1/1 2/2 3/3
+f 1/1 3/3 4/4

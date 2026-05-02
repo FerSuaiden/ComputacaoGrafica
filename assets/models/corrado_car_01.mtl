@@ -1,0 +1,5 @@
+newmtl 01_-_Default
+Kd 1 1 1
+d 1
+illum 1
+map_Kd ../textures/corrado_car_01_diffuse.png

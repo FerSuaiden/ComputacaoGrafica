@@ -1,0 +1,4 @@
+newmtl parking_lot_mat
+Kd 0.32 0.34 0.36
+d 1
+illum 1

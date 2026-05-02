@@ -1,0 +1,23 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v6.0.0)
+
+newmtl boombox
+Kd 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd ../textures/boombox_boombox_diff_1k.jpg
+
+newmtl boombox_speakers
+Kd 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd ../textures/boombox_boombox_speakers_diff_1k.jpg
+
+newmtl $Material_2
+Kd 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+

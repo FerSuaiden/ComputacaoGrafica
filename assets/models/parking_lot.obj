@@ -1,0 +1,13 @@
+mtllib parking_lot.mtl
+o floor
+v -32.0 0 -32.0
+v 32.0 0 -32.0
+v 32.0 0 32.0
+v -32.0 0 32.0
+vt 0 0
+vt 8 0
+vt 8 8
+vt 0 8
+usemtl parking_lot_mat
+f 1/1 2/2 3/3
+f 1/1 3/3 4/4

@@ -1,0 +1,30 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v6.0.0)
+
+newmtl street_lamp_01
+Kd 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd ../textures/street_lamp_01_street_lamp_01_diff_1k.jpg
+
+newmtl street_lamp_01_glass
+Kd 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd ../textures/street_lamp_01_street_lamp_01_diff_1k.jpg
+
+newmtl street_lamp_01_bulb
+Kd 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd ../textures/street_lamp_01_street_lamp_01_diff_1k.jpg
+
+newmtl $Material_3
+Kd 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+

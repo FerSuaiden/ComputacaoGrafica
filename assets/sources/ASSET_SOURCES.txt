@@ -1,0 +1,43 @@
+MODELS
+club_room.obj: authored locally for this project
+lounge_floor.obj: authored locally for this project
+dance_floor.obj: authored locally for this project
+parking_lot.obj: authored locally for this project
+disco_support.obj: authored locally for this project
+night_skybox.obj: authored locally for this project
+
+party_person_01.obj: https://www.cadnav.com/3d-models/model-35596.html
+party_person_male_01.obj: https://www.cadnav.com/3d-models/model-22880.html
+corrado_car_01.obj: https://opengameart.org/content/car-vw-corradon
+oga_trash_can_01.obj: https://opengameart.org/content/trashcan-model-texture
+
+boombox.obj: https://polyhaven.com/a/boombox
+bar_chair_round_01.obj: https://polyhaven.com/a/bar_chair_round_01
+sofa_01.obj: https://polyhaven.com/a/Sofa_01
+modern_ceiling_lamp_01.obj: https://polyhaven.com/a/modern_ceiling_lamp_01
+street_lamp_01.obj: https://polyhaven.com/a/street_lamp_01
+rollershutter_door.obj: https://polyhaven.com/a/rollershutter_door
+disco_ball.obj: base sphere authored locally for this project
+
+TEXTURES / MATERIAL SOURCES
+club_wall_black_painted_planks_diff_1k.jpg: https://polyhaven.com/a/painted_planks
+dance_floor_checkered_pavement_tiles_diff_1k.jpg: https://polyhaven.com/a/checkered_pavement_tiles
+night_sky_clean.png: https://commons.wikimedia.org/wiki/File:Milky_Way_360_equirectangular_rendering_with_foreground_stars_removed.png
+disco_ball_001_material_790.png: https://3dtextures.me/2019/03/18/disco-ball-001/
+boombox_boombox_diff_1k.jpg: https://polyhaven.com/a/boombox
+bar_chair_round_01_bar_chair_round_01_diff_1k.jpg: https://polyhaven.com/a/bar_chair_round_01
+sofa_01_Sofa_01_diff_1k.jpg: https://polyhaven.com/a/Sofa_01
+modern_ceiling_lamp_01_modern_ceiling_lamp_01_diff_1k.jpg: https://polyhaven.com/a/modern_ceiling_lamp_01
+street_lamp_01_street_lamp_01_diff_1k.jpg: https://polyhaven.com/a/street_lamp_01
+rollershutter_door_rollershutter_door_diff_1k.jpg: https://polyhaven.com/a/rollershutter_door
+
+party_person_01 textures (.dds in assets/models): bundled with https://www.cadnav.com/3d-models/model-35596.html
+party_person_male_01 texture (CMan0010.tif): bundled with https://www.cadnav.com/3d-models/model-22880.html
+corrado_car_01_diffuse.png: bundled with https://opengameart.org/content/car-vw-corradon
+oga_trash_can_01_diffuse.png: bundled with https://opengameart.org/content/trashcan-model-texture
+
+SOLID COLORS AUTHORED IN .MTL
+lounge_floor color: authored locally for this project
+parking_lot color: authored locally for this project
+club_ceiling color: authored locally for this project
+disco_support color: authored locally for this project

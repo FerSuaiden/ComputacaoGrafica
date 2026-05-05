@@ -5,8 +5,8 @@ Cena 3D em OpenGL para o Projeto 2 da disciplina de Computacao Grafica.
 O cenario representa uma balada urbana. O ambiente interno e um clube moderno
 com pista de danca central, varias pessoas texturizadas, palco para o som,
 sofas, bancos, luminarias e bola de discoteca. O ambiente externo e uma
-rua/estacionamento com piso cinza escuro, postes alinhados, carro e
-lixeira. Todo o codigo esta em
+rua/estacionamento com piso de asfalto, entrada metalica, postes alinhados,
+carro e lixeira. Todo o codigo esta em
 `Projeto_2_Computacao_Grafica.ipynb`.
 
 Fora do notebook existem apenas arquivos de dados: modelos `.obj`, materiais
@@ -18,6 +18,7 @@ fontes/licencas.
 - Ambiente interno e ambiente externo com objetivo coerente.
 - O ambiente interno tambem e um modelo `.obj`: `club_room`.
 - A balada foi fechada com parede frontal texturizada.
+- A area externa inclui entrada metalica em `.obj` separado.
 - Piso interno e piso externo com texturas prontas diferentes, com a pista como quadrado central.
 - Pessoas adicionadas com texturas de imagem prontas (`party_person_01` e `party_person_male_01`).
 - Skybox trocado por um ceu noturno limpo, sem cidade ou montanhas.
@@ -58,6 +59,7 @@ fontes/licencas.
     │   ├── party_person_01.obj / party_person_01.mtl
     │   ├── sofa_01.obj / sofa_01.mtl
     │   ├── street_lamp_01.obj / street_lamp_01.mtl
+    │   ├── rollershutter_door.obj / rollershutter_door.mtl
     │   └── trash_can_01.obj / trash_can_01.mtl
     ├── sources
     │   └── ASSET_SOURCES.txt
@@ -96,7 +98,7 @@ Execute as celulas em ordem. A ultima celula abre a janela OpenGL.
 
 As origens dos modelos e texturas usados na cena estao documentadas em:
 
-- [assets/sources/ASSET_SOURCES.txt](</home/fersuaiden/Área de trabalho/Faculdade/CompGrafica/assets/sources/ASSET_SOURCES.txt>)
+- [assets/sources/ASSET_SOURCES.txt](assets/sources/ASSET_SOURCES.txt)
 
 Resumo dos principais assets:
 
@@ -105,4 +107,5 @@ Resumo dos principais assets:
 - `corrado_car_01`: carro com textura pronta, vindo do OpenGameArt.
 - `oga_trash_can_01`: lixeira com textura pronta, vinda do OpenGameArt.
 - `boombox`, `bar_chair_round_01`, `sofa_01`, `modern_ceiling_lamp_01` e `street_lamp_01`: assets prontos.
+- `rollershutter_door`: asset pronto usado na entrada externa.
 - `night_skybox`, `dance_floor`, `disco_ball`, paredes e outros materiais: texturas prontas listadas no arquivo de fontes.
